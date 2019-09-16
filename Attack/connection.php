@@ -1,6 +1,6 @@
 <?php
-$server_username = "root"; // thông tin đăng nhập host
-$server_password = ""; // mật khẩu, trong trường hợp này là trống
+$server_username = "sqlinjuser"; // thông tin đăng nhập host
+$server_password = "khanh123"; // mật khẩu, trong trường hợp này là trống
 $server_host = "localhost"; // host là localhost
 $database = 'sqlinjection'; // database là website
 
